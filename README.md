@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2acaea,100:f0f8ff&height=180&text=SimJH99's%20Github&fontSize=40&animation=fadeIn&fontAlign=33&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:99b4d3,100:298daa&height=180&text=SimJH99's%20Github&fontSize=40&animation=fadeIn&fontAlign=33&fontAlignY=40)
 
 <div align=right>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhttps%3A%2F%2Fgithub.com%2FSimJH99&count_bg=%2378C0FF&title_bg=%23707070&icon=&icon_color=%23F0F8FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FSimJH99&count_bg=%23298DAA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 
@@ -31,7 +31,7 @@
   <p></p>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimJH99&layout=donut&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimJH99&layout=donut&show_icons=true&theme=shadow_blue&hide_border=false&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
   </a>    
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SimJH99&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true" width=56% />
