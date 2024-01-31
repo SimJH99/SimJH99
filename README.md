@@ -10,8 +10,13 @@
   
 ### Hi there 👋
 I'm JaeHyeok-Sim, I am currently learning SpringBoot🌺
-<p></p>
+<br>
+<br>
  📫 How to reach me : s99s4481@gmail.com
+
+<br>
+
+ ![SimJH99's github stats](https://github-readme-stats.vercel.app/api?username=SimJH99&theme=shadow_blue&show_icons=true)
 
 
 ### 📚My Stack📚
