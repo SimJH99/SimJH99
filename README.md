@@ -1,16 +1,25 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2acaea,100:f0f8ff&height=180&text=SimJH99's%20Github&fontSize=40&animation=fadeIn&fontAlign=33&fontAlignY=40)
+
+<div align=center>
+  
 ### Hi there 👋
+I'm JaeHyeok-Sim, I am currently learning SpringBoot🌺
+<p></p>
+ 📫 How to reach me : 
+ 
+# 💪Skills
+### My Stack
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
 
-<!--
-**SimJH99/SimJH99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Use Tools
 
-Here are some ideas to get you started:
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+
+
