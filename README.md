@@ -1,11 +1,11 @@
 ![title light](https://github.com/user-attachments/assets/a00c6863-4d63-4435-9372-3c3c9f45bf21#gh-light-mode-only)
-![title_dark](https://github.com/user-attachments/assets/49e8520a-83b4-4f7f-af64-700f486c2f17#gh-dark-mode-only)
+![title_dark](https://github.com/user-attachments/assets/c9d14492-d2cb-4c25-b415-4d3887b7e583#gh-dark-mode-only)
 
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimJH99&layout=donut&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-  </a>    
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimJH99&layout=donut&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38%/>
+    </a>    
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SimJH99&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true" width=56% />
   </a>
