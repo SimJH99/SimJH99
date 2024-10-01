@@ -5,7 +5,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SimJH99&layout=donut&show_icons=true&hide_border=true&title_color=89C789&icon_color=89C789&hide=shaderlab&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SimJH99&layout=donut&show_icons=true&hide_border=true&title_color=89C789&text_color=ffffff&bg_color=0d1117&icon_color=89C789&hide=shaderlab&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -19,7 +19,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SimJH99&show_icons=true&hide_border=true&title_color=89C789&icon_color=89C789&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=SimJH99&show_icons=true&hide_border=true&title_color=89C789&text_color=ffffff&bg_color=0d1117&icon_color=89C789&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
