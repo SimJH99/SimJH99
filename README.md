@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:99b4d3,100:298daa&height=180&text=SimJH99's%20Github&fontSize=40&animation=fadeIn&fontAlign=33&fontAlignY=40)
+![title light](https://github.com/user-attachments/assets/a00c6863-4d63-4435-9372-3c3c9f45bf21#gh-light-mode-only)
+![title_dark](https://github.com/user-attachments/assets/49e8520a-83b4-4f7f-af64-700f486c2f17#gh-dark-mode-only)
 
 
 <div align="center">
