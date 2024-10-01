@@ -1,11 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:99b4d3,100:298daa&height=180&text=SimJH99's%20Github&fontSize=40&animation=fadeIn&fontAlign=33&fontAlignY=40)
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimJH99&layout=donut&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
   </a>    
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SimJH99&show_icons=true&theme=shadow_blue&hide_border=true&count_private=true" width=56% />
   </a>
+</div>
+
 
   # 📚Tech Stack
 
